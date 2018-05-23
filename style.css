@@ -1,0 +1,33 @@
+body{
+    background-color: lightgray;
+}
+
+header{
+    background-color: white;
+}
+
+header div{
+    background-color: orange;
+}
+
+#mainContainer{
+    background-color: purple;
+}
+
+.centeredContainer{
+    width: 600px;
+    margin:auto;
+}
+
+.postContainer{
+    margin-top:30px;
+    background-color: white;
+}
+
+.postHeaderContainer{
+    display: flex;
+}
+
+.postHeaderContainer div{
+    width: 50%;
+}
